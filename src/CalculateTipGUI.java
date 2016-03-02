@@ -32,7 +32,7 @@ public class CalculateTipGUI {
         "Your tip amount is: '" + total + "'"
         + " & Your grand total is: '" + grandtotal + "'.", 
         "Tip Calculator", JOptionPane.INFORMATION_MESSAGE);
-// TODO code application logic here
+
     }
     
 }
