@@ -1,8 +1,9 @@
 /*
 NAME: Chase Aceves
-DATE: 2/23/2016
-PROJECT: Project 1
- */
+DATE: 03 March 2016
+PROJECT INFO: Project 1 - Simple Programming Exercises
+DESCRIPTION: Calculate Tip 
+*/
 import java.util.*;
 
 public class CalculateTip {

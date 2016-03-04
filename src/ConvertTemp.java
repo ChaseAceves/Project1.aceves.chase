@@ -1,7 +1,8 @@
 /*
 NAME: Chase Aceves
-DATE: 02/23/2016
-PROJECT: Project 1
+DATE: 03 March 2016
+PROJECT INFO: Project 1 - Simple Programming Exercises
+DECRIPTION: Convert temp
 */
 import java.util.*;
 
