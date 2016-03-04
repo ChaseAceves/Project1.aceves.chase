@@ -8,9 +8,7 @@ DESCRIPTION: Calculate Cylinder
 import java.util.*;
 
 public class CalculateCylinder {
-
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {   
         Scanner userInput = new Scanner ( System.in );
     
         System.out.println("What is the radius?");
@@ -23,5 +21,4 @@ public class CalculateCylinder {
         double volume = area * length;
         System.out.println(volume);
     }
-    
 }
